@@ -13,6 +13,10 @@ Welcome! This repository contains a collection of my practical data annotation p
     **👉 [Click here to view this project folder](./Traffic-Tracking-Project/)**
 
  3. **Retail Product Segmentation (Polygons)**
+ 
     **Description:** High-precision polygon mapping for supermarket inventory AI.
+    
     **Tools:** CVAT
+    
     **👉 [Click here to view this project folder](./Retail-Product-Segmentation/)**
+    
