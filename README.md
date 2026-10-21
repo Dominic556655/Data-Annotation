@@ -1,19 +1,15 @@
-**Autonomous Vehicle Video Annotation Project**
+**My Data Annotation & Labeling Portfolio**
 
-  **Project Objective**
-This project demonstrates precision video annotation for computer vision models. Using open source stock footage, I annotated moving vehicles and pedestrians to practice multi-object tracking and bounding box consistency across frames.
+Welcome! This repository contains a collection of my practical data annotation projects for computer vision and machine learning.
 
- **Tools & Specifications**
-**Annotation Tool:**  CVAT
-**Annotation Type:** Object Tracking (Bounding Boxes)
-**Dataset Source:** Stock video from Pexels
-**Labels Used:** Car, Truck, Pedestrian, Motorcycle
+ 📁 **Table of Contents**
 
-**Visual Preview**
-Annotated Sample (assets/your-project-demo.gif)
-(Above: A short clip demonstrating tight bounding boxes and persistent ID tracking across 120 frames.)
+ 1. **Autonomous Vehicle Tracking (Bounding Boxes)**
+    **Description:** Tracking cars and pedestrians using drone footage.
+    **Tools:** CVAT
+    **👉 [Click here to view this project folder](./Traffic-Tracking-Project/)**
 
- **Deliverables & Exports**
-The finalized dataset features high-accuracy annotations with zero drifting or edge bleeding. You can find the raw metadata exports in this repository:
- Check the `/exports` folder for the full `annotations.json` file.
- Total frames annotated: 300 frames at 24fps.
+ 2. **Retail Product Segmentation (Polygons)**
+    **Description:** High-precision polygon mapping for supermarket inventory AI.
+    **Tools:** CVAT
+    **👉 [Click here to view this project folder](./Retail-Product-Segmentation/)**
