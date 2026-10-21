@@ -5,11 +5,14 @@ Welcome! This repository contains a collection of my practical data annotation p
  📁 **Table of Contents**
 
  1. **Autonomous Vehicle Tracking (Bounding Boxes)**
+    
     **Description:** Tracking cars and pedestrians using drone footage.
+    
     **Tools:** CVAT
+    
     **👉 [Click here to view this project folder](./Traffic-Tracking-Project/)**
 
- 2. **Retail Product Segmentation (Polygons)**
+ 3. **Retail Product Segmentation (Polygons)**
     **Description:** High-precision polygon mapping for supermarket inventory AI.
     **Tools:** CVAT
     **👉 [Click here to view this project folder](./Retail-Product-Segmentation/)**
