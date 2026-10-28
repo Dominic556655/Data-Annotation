@@ -18,5 +18,5 @@ Welcome! This repository contains a collection of my practical data annotation p
     
     **Tools:** CVAT
     
-    **👉 [Click here to view this project folder](./Retail-Product-Segmentation/)**
+    **👉 [Click here to view this project folder](./Retail-Product-Segmentation.zip/)**
     
