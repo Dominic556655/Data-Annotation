@@ -10,7 +10,7 @@ Welcome! This repository contains a collection of my practical data annotation p
     
     **Tools:** CVAT
     
-    **👉 [Click here to view this project folder](./Traffic-Tracking-Project/)**
+    **👉 [Click here to view this project folder](./Traffic-Tracking-Project.zip/)**
 
  3. **Retail Product Segmentation (Polygons)**
  
